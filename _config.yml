@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Acerca de mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Mi nombre es Lucas Zamora, <mark>Ingeniero en Sistemas de la Universidad Tecnológica Nacional (UTN)</mark> y profesional del mundo de los datos, más específicamente como <mark>Data Scientist</mark>. 
@@ -159,7 +159,7 @@ content:
         link: https://ar.pinterest.com/lucasezamora/storytelling-with-data-with-python-and-bokeh/
         # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
-          Recreé los gráficos recomendados por el libro Story telling with data (Wiley, 2015) con Python y Bokeh, y disponibilicé por medio de Pinterest y Github el código para recrearlo.
+          Recreé los gráficos recomendados por el libro <mark>Story telling with data (Wiley, 2015)</mark> con Python y Bokeh, y disponibilicé por medio de Pinterest y Github el código para recrearlo.
 
 
 # Footer
