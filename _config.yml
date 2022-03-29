@@ -32,7 +32,7 @@ pinterest_username: lucasezamora
 # Additional icon links
 additional_links:
 - title: Medium link
-  icon: fab fa-twitter
+  icon: fa-brands fa-medium
   url: https://medium.com/@lucasezamora
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -89,7 +89,6 @@ content:
             - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning.
             - Deploy a producción de estos modelos a través de REST APIs y aplicaciones (Python, Flask, Django, Docker, etc.), y monitoreo de los mismos.
             - Web scraping.
-    content:
       - layout: left
         title: Argenprop
         link: https://www.argenprop.com/
@@ -106,7 +105,6 @@ content:
             - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning.
             - Deploy a producción de estos modelos a través de REST APIs y aplicaciones (Python, Flask, Django, Docker, etc.), y monitoreo de los mismos.
             - Web scraping.
-      content:
       - layout: left
         title: Argenprop
         link: https://www.argenprop.com/
@@ -118,7 +116,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
               - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
-      content:
       - layout: left
         title: IT Patagonia
         link: https://www.itpatagonia.com/
@@ -130,7 +127,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
               - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
-      content:
       - layout: left
         title: Neoris
         link: https://www.neoris.com/
