@@ -75,7 +75,7 @@ content:
     content:
       - layout: left
         title: Clarín
-        link: clarin.com
+        link: https://www.clarin.com/
         # link_text: boringcompany.com
         sub_title: Senior Data Scientist
         caption: Junio 2019 - Presente
@@ -89,6 +89,64 @@ content:
             - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning.
             - Deploy a producción de estos modelos a través de REST APIs y aplicaciones (Python, Flask, Django, Docker, etc.), y monitoreo de los mismos.
             - Web scraping.
+
+    content:
+      - layout: left
+        title: Argenprop
+        link: https://www.argenprop.com/
+        # link_text: boringcompany.com
+        sub_title: Data Analyst
+        caption: Julio 2018 - Junio 2019 
+        quote: >
+          Dando soporte a distintas áreas.
+        description: | # this will include new lines to allow paragraphs
+            Mis tareas dentro de la empresa son las siguientes:
+            - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
+            - Utilización de Python y R para limpieza, análisis, feature engineering y visualización de datos.
+            - Aplicación de pruebas estadísticas.
+            - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning.
+            - Deploy a producción de estos modelos a través de REST APIs y aplicaciones (Python, Flask, Django, Docker, etc.), y monitoreo de los mismos.
+            - Web scraping.
+            
+      content:
+      - layout: left
+        title: Argenprop
+        link: https://www.argenprop.com/
+        # link_text: boringcompany.com
+        sub_title: QA Automation
+        caption: Diciembre 2016 - Julio 2018 
+        quote: >
+          Dando soporte a distintas áreas.
+        description: | # this will include new lines to allow paragraphs
+            Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
+              - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
+            
+      content:
+      - layout: left
+        title: IT Patagonia
+        link: https://www.itpatagonia.com/
+        # link_text: boringcompany.com
+        sub_title: QA Automation
+        caption: Julio 2016 - Diciembre 2016 
+        quote: >
+          Dando soporte a distintas áreas.
+        description: | # this will include new lines to allow paragraphs
+            Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
+              - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
+              
+      content:
+      - layout: left
+        title: Neoris
+        link: https://www.neoris.com/
+        # link_text: boringcompany.com
+        sub_title: QA Analyst
+        caption: Nobiembre 2014 - Julio 2016 
+        quote: >
+          Dando soporte a distintas áreas.
+        description: | # this will include new lines to allow paragraphs
+            Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
+              - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
+            
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
