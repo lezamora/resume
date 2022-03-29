@@ -30,10 +30,10 @@ pinterest_username: lucasezamora
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: Medium linl
+  icon: fa-brands fa-medium
+  url: https://medium.com/@lucasezamora
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -90,6 +90,7 @@ content:
             - Deploy a producción de estos modelos a través de REST APIs y aplicaciones (Python, Flask, Django, Docker, etc.), y monitoreo de los mismos.
             - Web scraping.
 
+    layout: list
     content:
       - layout: left
         title: Argenprop
@@ -108,6 +109,7 @@ content:
             - Deploy a producción de estos modelos a través de REST APIs y aplicaciones (Python, Flask, Django, Docker, etc.), y monitoreo de los mismos.
             - Web scraping.
             
+      layout: list
       content:
       - layout: left
         title: Argenprop
@@ -120,7 +122,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
               - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
-            
+           
+      layout: list
       content:
       - layout: left
         title: IT Patagonia
@@ -133,7 +136,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
               - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
-              
+         
+      layout: list
       content:
       - layout: left
         title: Neoris
