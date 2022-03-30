@@ -129,43 +129,45 @@ content:
 
   - title: Herramientas
     layout: text
-    content: # this will include new lines to allow paragraphs
-      Además de las tareas desarrolladas tengo conocimiento y experiencia en los siguientes campos:
-        - Python
-        - R
-        - SQL
-        - No SQL
-        - GCP
-        - AWS
-        - Docker
-        - Power BI
-        - Tableau        
+    content:
+      description: |
+        Además de las tareas desarrolladas tengo conocimiento y experiencia en los siguientes campos:
+          - Python
+          - R
+          - SQL
+          - No SQL
+          - GCP
+          - AWS
+          - Docker
+          - Power BI
+          - Tableau        
         
      
   - title: Conocimientos
     layout: text
     content:
-      También he trabado o realizado capacitaciones en:
-        - Machine Learning 
-        - Deep Learning
-        - Web Scraping 
-        - Análisis estadísticos
-        - NLP 
-        - Clustering
-        - Sistemas de recomendación
-        - Reinforcement Learning
-        - Scikit-learn 
-        - XGBoost
-        - LightGBM
-        - CatBoost
-        - Pandas & Numpy
-        - Geopandas 
-        - Matplotlib 
-        - Seaborn
-        - Bokeh 
-        - Pytorch 
-        - Tensorflow
-        - Docker
+      description: |
+        También he trabado o realizado capacitaciones en:
+          - Machine Learning 
+          - Deep Learning
+          - Web Scraping 
+          - Análisis estadísticos
+          - NLP 
+          - Clustering
+          - Sistemas de recomendación
+          - Reinforcement Learning
+          - Scikit-learn 
+          - XGBoost
+          - LightGBM
+          - CatBoost
+          - Pandas & Numpy
+          - Geopandas 
+          - Matplotlib 
+          - Seaborn
+          - Bokeh 
+          - Pytorch 
+          - Tensorflow
+          - Docker
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
@@ -178,8 +180,9 @@ content:
   - title: Idiomas
     layout: text
     content:
-        - Español 
-        - Inglés        
+      description: |
+          - Español 
+          - Inglés        
         
   - title: Projectos # Title for the section
     layout: list # Type of content section (list/text)
