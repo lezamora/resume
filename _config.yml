@@ -63,13 +63,13 @@ content:
         quote: >
           Mi trabajo es dar soporte a las distintas áreas (redacción, marketing, comercial, producto, etc.) de la empresa generando análisis, desarrollando modelos y reportes según las necesidades relevadas.
         description: | # this will include new lines to allow paragraphs
-            Tareas desarrolladas:
-              - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
-              - Utilización de Python y R para limpieza, análisis y visualización de datos.
-              - Aplicación de pruebas estadísticas.
-              - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning (Scikit-learn, Pytorch, Tensor Flow, etc).
-              - Deploy e implementación de de modelos (Python, Flask, Docker, etc.) y monitoreo de los mismos.
-              - Web scraping.
+          Tareas desarrolladas:
+            - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
+            - Utilización de Python y R para limpieza, análisis y visualización de datos.
+            - Aplicación de pruebas estadísticas.
+            - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning (Scikit-learn, Pytorch, Tensor Flow, etc).
+            - Deploy e implementación de de modelos (Python, Flask, Docker, etc.) y monitoreo de los mismos.
+            - Web scraping.
             
       - layout: left
         title: Argenprop
@@ -80,11 +80,11 @@ content:
         quote: >
           En Argenprop principalmente fuí responsable del desarrollo de nuevas KPIs y de realicé análisis para dar respuestas a distintas problemáticas del negocio. 
         description: | # this will include new lines to allow paragraphs
-            Tareas desarrolladas:
-            - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
-            - Utilización de Python y R para limpieza, análisis y visualización de datos.
-            - Aplicación de pruebas estadísticas.
-            - Web scraping.
+          Tareas desarrolladas:
+          - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
+          - Utilización de Python y R para limpieza, análisis y visualización de datos.
+          - Aplicación de pruebas estadísticas.
+          - Web scraping.
             
       - layout: left
         title: Argenprop
@@ -95,10 +95,10 @@ content:
         quote: >
           En mi rol de QA fuí responsable del área de calidad de todos los portales pertenecientes a Argenprop.
         description: | # this will include new lines to allow paragraphs
-            Tareas desarrolladas:
-            - Diseño y ejecución de casos de prueba.
-            - Desarrollo de casos de pruebas automatizadas utilizando .net y Selenium.
-            - Elaboración y seguimiento del plan de prueba.
+          Tareas desarrolladas:
+          - Diseño y ejecución de casos de prueba.
+          - Desarrollo de casos de pruebas automatizadas utilizando .net y Selenium.
+          - Elaboración y seguimiento del plan de prueba.
               
       - layout: left
         title: IT Patagonia
@@ -109,9 +109,9 @@ content:
         quote: >
           Responsable de calidad de un proyecto de Sancor Seguros.
         description: | # this will include new lines to allow paragraphs
-            Tareas desarrolladas:
-            - Diseño y ejecución de casos de prueba.
-            - Desarrollo de casos de pruebas automatizadas utilizando .net y Selenium.
+          Tareas desarrolladas:
+          - Diseño y ejecución de casos de prueba.
+          - Desarrollo de casos de pruebas automatizadas utilizando .net y Selenium.
               
       - layout: left
         title: Neoris
@@ -122,14 +122,14 @@ content:
         quote: >
           Responsable de calidad de un proyecto perteneciente a Asociart Seguros.
         description: | # this will include new lines to allow paragraphs
-            Tareas desarrolladas:
-            - Diseño y ejecución de casos de prueba.
-            - Elaboración y seguimiento del plan de prueba.            
+          Tareas desarrolladas:
+          - Diseño y ejecución de casos de prueba.
+          - Elaboración y seguimiento del plan de prueba.            
   
 
   - title: Herramientas
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: # this will include new lines to allow paragraphs
       Además de las tareas desarrolladas tengo conocimiento y experiencia en los siguientes campos:
         - Python
         - R
