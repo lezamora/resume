@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lucas Ezequiel Zamora
-title: Senior Data Scientist
+title: Data Scientist
 email: lucas.e.zamora@gmail.com
 website: https://peepdata.github.io/
 
@@ -48,7 +48,7 @@ additional_links:
 about_title: Acerca de mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Mi nombre es Lucas Zamora, <mark>Ingeniero en Sistemas de la Universidad Tecnológica Nacional (UTN)</mark> y profesional del mundo de los datos, más específicamente como <mark>Data Scientist</mark>. 
+  Mi nombre es Lucas Zamora, <mark>Ingeniero en Sistemas de la Universidad Tecnológica Nacional (UTN)</mark> y profesional en mundo de los datos. 
 
 content:
   - title: Experiencia # Title for the section
@@ -58,31 +58,32 @@ content:
         title: Clarín
         link: https://www.clarin.com/
         # link_text: boringcompany.com
-        sub_title: Senior Data Scientist
+        sub_title: Data Scientist
         caption: Junio 2019 - Presente
         quote: >
-          Mi trabajo es dar soporte a las distintas áreas de la empresa generando análisis, desarrollando modelos y reportes según las necesidades relevadas.
+          Mi trabajo es dar soporte a las distintas áreas (redacción, marketing, comercial, producto, etc.) de la empresa generando análisis, desarrollando modelos y reportes según las necesidades relevadas.
         description: | # this will include new lines to allow paragraphs
             Tareas desarrolladas:
-            - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
-            - Utilización de Python y R para limpieza, análisis y visualización de datos.
-            - Aplicación de pruebas estadísticas.
-            - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning (Scikit-Learn, Pytorch, Tensor Flow, etc).
-            - Deploy a producción de estos modelos a través de REST APIs y aplicaciones (Python, Flask, Docker, etc.), y monitoreo de los mismos.
-            - Web scraping.
+              - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
+              - Utilización de Python y R para limpieza, análisis y visualización de datos.
+              - Aplicación de pruebas estadísticas.
+              - Construcción, evaluación e implementación de modelos de Machine Learning y Deep Learning (Scikit-learn, Pytorch, Tensor Flow, etc).
+              - Deploy e implementación de de modelos (Python, Flask, Docker, etc.) y monitoreo de los mismos.
+              - Web scraping.
             
       - layout: left
         title: Argenprop
         link: https://www.argenprop.com/
         # link_text: boringcompany.com
         sub_title: Data Analyst
-        caption: Julio 2018 - Junio 2019 
+        caption: Julio 2018 - Mayo 2019 
         quote: >
           En Argenprop principalmente fuí responsable del desarrollo de nuevas KPIs y de realicé análisis para dar respuestas a distintas problemáticas del negocio. 
         description: | # this will include new lines to allow paragraphs
             Tareas desarrolladas:
             - Consulta, extracción y limpieza datos utilizado bases de datos SQL y NOSQL.
             - Utilización de Python y R para limpieza, análisis y visualización de datos.
+            - Aplicación de pruebas estadísticas.
             - Web scraping.
             
       - layout: left
@@ -90,49 +91,70 @@ content:
         link: https://www.argenprop.com/
         # link_text: boringcompany.com
         sub_title: QA Automation
-        caption: Diciembre 2016 - Julio 2018 
+        caption: Diciembre 2016 - Junio 2018 
         quote: >
           En mi rol de QA fuí responsable del área de calidad de todos los portales pertenecientes a Argenprop.
         description: | # this will include new lines to allow paragraphs
-            Responsable de calidad de un proyecto de Sancor Seguros, realizando las siguientes tareas:
-              - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
+            Tareas desarrolladas:
+            - Diseño y ejecución de casos de prueba.
+            - Desarrollo de casos de pruebas automatizadas utilizando .net y Selenium.
+            - Elaboración y seguimiento del plan de prueba.
               
       - layout: left
         title: IT Patagonia
         link: https://www.itpatagonia.com/
         # link_text: boringcompany.com
         sub_title: QA Automation
-        caption: Julio 2016 - Diciembre 2016 
+        caption: Julio 2016 - Noviembre 2016 
         quote: >
           Responsable de calidad de un proyecto de Sancor Seguros.
         description: | # this will include new lines to allow paragraphs
             Tareas desarrolladas:
-              - Diseño y ejecución de casos de prueba automatizado utilizando Selenium WebDriver y C#.
+            - Diseño y ejecución de casos de prueba.
+            - Desarrollo de casos de pruebas automatizadas utilizando .net y Selenium.
               
       - layout: left
         title: Neoris
         link: https://www.neoris.com/
         # link_text: boringcompany.com
         sub_title: QA Analyst
-        caption: Nobiembre 2014 - Julio 2016 
+        caption: Noviembre 2014 - Junio 2016 
         quote: >
           Responsable de calidad de un proyecto perteneciente a Asociart Seguros.
         description: | # this will include new lines to allow paragraphs
             Tareas desarrolladas:
-              - Diseño y ejecución de casos de prueba.             
+            - Diseño y ejecución de casos de prueba.
+            - Elaboración y seguimiento del plan de prueba.            
   
 
-  - title: Habilidades
+  - title: Herramientas
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Además de las tareas desarrolladas tengo conociendo y experiencia en los siguientes campos:
+      Además de las tareas desarrolladas tengo conocimiento y experiencia en los siguientes campos:
         - Python
         - R
+        - SQL
+        - No SQL
+        - GCP
+        - AWS
         - Docker
         - Power BI
-        - SQL
-        - NO SQL
-        - Metodologías agíles
+        - Tableau
+        
+     
+    - title: Conocimientos
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      También he trabado o realizado capacitaciones en:
+        - Machine Learning Deep Learning
+        - Web Scraping Análisis estadísticos
+        - NLP Clustering
+        - Sistemas de recomendación
+        - Reinforcement Learning
+        - Scikit-learn Pandas & Numpy
+        - Geopandas Matplotlib Seaborn
+        - Bokeh Pytorch Tensorflow
+        - Docker
             
 
   - title: Educación # Title for the section
