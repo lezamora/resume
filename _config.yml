@@ -139,7 +139,33 @@ content:
         - AWS
         - Docker
         - Power BI
-        - Tableau            
+        - Tableau        
+        
+     
+  - title: Conocimientos
+    layout: text
+    content:
+      También he trabado o realizado capacitaciones en:
+        - Machine Learning 
+        - Deep Learning
+        - Web Scraping 
+        - Análisis estadísticos
+        - NLP 
+        - Clustering
+        - Sistemas de recomendación
+        - Reinforcement Learning
+        - Scikit-learn 
+        - XGBoost
+        - LightGBM
+        - CatBoost
+        - Pandas & Numpy
+        - Geopandas 
+        - Matplotlib 
+        - Seaborn
+        - Bokeh 
+        - Pytorch 
+        - Tensorflow
+        - Docker
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
@@ -149,6 +175,11 @@ content:
         caption: 2012 - 2019
         sub_title: Ingeniería en Sistemas
         
+  - title: Idiomas
+    layout: text
+    content:
+        - Español 
+        - Inglés        
         
   - title: Projectos # Title for the section
     layout: list # Type of content section (list/text)
