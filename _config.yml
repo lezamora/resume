@@ -139,23 +139,7 @@ content:
         - AWS
         - Docker
         - Power BI
-        - Tableau
-        
-     
-    - title: Conocimientos
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      También he trabado o realizado capacitaciones en:
-        - Machine Learning Deep Learning
-        - Web Scraping Análisis estadísticos
-        - NLP Clustering
-        - Sistemas de recomendación
-        - Reinforcement Learning
-        - Scikit-learn Pandas & Numpy
-        - Geopandas Matplotlib Seaborn
-        - Bokeh Pytorch Tensorflow
-        - Docker
-            
+        - Tableau            
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
