@@ -129,8 +129,7 @@ content:
 
   - title: Herramientas
     layout: text
-    content:
-      description: |
+    content: |
         Además de las tareas desarrolladas tengo conocimiento y experiencia en los siguientes campos:
           - Python
           - R
@@ -145,8 +144,7 @@ content:
      
   - title: Conocimientos
     layout: text
-    content:
-      description: |
+    content: |
         También he trabado o realizado capacitaciones en:
           - Machine Learning 
           - Deep Learning
@@ -179,8 +177,7 @@ content:
         
   - title: Idiomas
     layout: text
-    content:
-      description: |
+    content: |
           - Español 
           - Inglés        
         
