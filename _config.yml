@@ -48,7 +48,7 @@ additional_links:
 about_title: Acerca de mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Mi nombre es Lucas Zamora, <mark>Ingeniero en Sistemas de la Universidad Tecnológica Nacional (UTN)</mark> y profesional en mundo de los datos. 
+  Mi nombre es Lucas Zamora, <mark>Ingeniero en Sistemas de la Universidad Tecnológica Nacional (UTN)</mark> y profesional en el mundo de los datos. 
 
 content:
   - title: Experiencia # Title for the section
